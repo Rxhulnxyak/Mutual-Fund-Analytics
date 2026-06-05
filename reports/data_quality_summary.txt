@@ -1,0 +1,84 @@
+MUTUAL FUND ANALYTICS — DATA QUALITY SUMMARY
+Generated : 2026-06-05 11:11:54
+Raw Folder: D:\Mutual Fund Analytics\mutual_fund_analytics\data\raw
+
+=================================================================
+Dataset : 01_fund_master.csv
+Shape   : 40 rows  x  15 columns
+Columns : amfi_code, fund_house, scheme_name, category, sub_category, plan, launch_date, benchmark, expense_ratio_pct, exit_load_pct, min_sip_amount, min_lumpsum_amount, fund_manager, risk_category, sebi_category_code
+-----------------------------------------------------------------
+✓  No missing values
+✓  No duplicate rows
+
+=================================================================
+Dataset : 02_nav_history.csv
+Shape   : 46,000 rows  x  3 columns
+Columns : amfi_code, date, nav
+-----------------------------------------------------------------
+✓  No missing values
+✓  No duplicate rows
+
+=================================================================
+Dataset : 03_aum_by_fund_house.csv
+Shape   : 90 rows  x  5 columns
+Columns : date, fund_house, aum_lakh_crore, aum_crore, num_schemes
+-----------------------------------------------------------------
+✓  No missing values
+✓  No duplicate rows
+
+=================================================================
+Dataset : 04_monthly_sip_inflows.csv
+Shape   : 48 rows  x  6 columns
+Columns : month, sip_inflow_crore, active_sip_accounts_crore, new_sip_accounts_lakh, sip_aum_lakh_crore, yoy_growth_pct
+-----------------------------------------------------------------
+⚠  Missing Values:
+   - 'yoy_growth_pct': 12 missing (25.0%)
+✓  No duplicate rows
+
+=================================================================
+Dataset : 05_category_inflows.csv
+Shape   : 144 rows  x  3 columns
+Columns : month, category, net_inflow_crore
+-----------------------------------------------------------------
+✓  No missing values
+✓  No duplicate rows
+
+=================================================================
+Dataset : 06_industry_folio_count.csv
+Shape   : 21 rows  x  6 columns
+Columns : month, total_folios_crore, equity_folios_crore, debt_folios_crore, hybrid_folios_crore, others_folios_crore
+-----------------------------------------------------------------
+✓  No missing values
+✓  No duplicate rows
+
+=================================================================
+Dataset : 07_scheme_performance.csv
+Shape   : 40 rows  x  19 columns
+Columns : amfi_code, scheme_name, fund_house, category, plan, return_1yr_pct, return_3yr_pct, return_5yr_pct, benchmark_3yr_pct, alpha, beta, sharpe_ratio, sortino_ratio, std_dev_ann_pct, max_drawdown_pct, aum_crore, expense_ratio_pct, morningstar_rating, risk_grade
+-----------------------------------------------------------------
+✓  No missing values
+✓  No duplicate rows
+
+=================================================================
+Dataset : 08_investor_transactions.csv
+Shape   : 32,778 rows  x  13 columns
+Columns : investor_id, transaction_date, amfi_code, transaction_type, amount_inr, state, city, city_tier, age_group, gender, annual_income_lakh, payment_mode, kyc_status
+-----------------------------------------------------------------
+✓  No missing values
+✓  No duplicate rows
+
+=================================================================
+Dataset : 09_portfolio_holdings.csv
+Shape   : 322 rows  x  8 columns
+Columns : amfi_code, stock_symbol, stock_name, sector, weight_pct, market_value_cr, current_price_inr, portfolio_date
+-----------------------------------------------------------------
+✓  No missing values
+✓  No duplicate rows
+
+=================================================================
+Dataset : 10_benchmark_indices.csv
+Shape   : 8,050 rows  x  3 columns
+Columns : date, index_name, close_value
+-----------------------------------------------------------------
+✓  No missing values
+✓  No duplicate rows

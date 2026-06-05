@@ -1,0 +1,16 @@
+AMFI Code Validation Report
+Generated : 2026-06-05 11:11:54
+
+fund_master  codes : 40
+nav_history  codes : 40
+Missing in NAV     : 0
+Extra in NAV       : 0
+
+Missing AMFI codes (in master but not in NAV):
+[]
+
+Extra AMFI codes (in NAV but not in master):
+[]
+
+Transaction AMFI codes not in fund_master:
+[]
