@@ -1,0 +1,35 @@
+
+=================================================================
+  DAY 6 — ADVANCED ANALYTICS: 5 KEY INSIGHTS
+=================================================================
+
+Insight 1 | Highest VaR (Most Risk)
+  ABSL Small Cap Fund (Small Cap) has the highest
+  daily VaR(95%) of -2.392% and CVaR of
+  -3.029%. In a bad day (1-in-20 chance),
+  an investor could lose more than 2.39% of NAV.
+
+Insight 2 | Lowest VaR (Safest)
+  ICICI Pru Liquid Fund (Liquid) is the most defensive
+  fund with VaR(95%) of -0.020%. Ideal for
+  capital-preservation investors.
+
+Insight 3 | Rolling Sharpe Reveals Market Cycles
+  The rolling 90-day Sharpe ratio clearly reveals 2022 bear market
+  (negative Sharpe), the 2023 recovery (Sharpe >1 for top funds),
+  and the 2024 volatility phase (Sharpe declining again).
+
+Insight 4 | Investor Cohort Behaviour
+  The 2024 cohort invested the most
+  (₹21.5 Cr total), suggesting
+  strong bull market entry. Earlier cohorts show higher avg SIP amounts,
+  indicating wealth accumulation over time.
+
+Insight 5 | SIP Continuity Rate = 2.2%
+  2.2% of investors with 6+ SIP transactions maintain
+  consistent intervals (≤35 days). 1,332 investors are flagged
+  as at-risk of SIP discontinuation — a key retention opportunity.
+  Sector concentration (HHI): 9 funds show HIGH concentration,
+  indicating manager conviction but reduced diversification.
+
+=================================================================
