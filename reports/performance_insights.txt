@@ -1,0 +1,56 @@
+
+=================================================================
+  DAY 4 — PERFORMANCE ANALYTICS: 10 KEY INSIGHTS
+=================================================================
+
+Insight 1 | Top Composite Fund
+  ICICI Pru Midcap Fund (ICICI Prudential MF) scored 100.0/100 in
+  the composite scorecard — highest across all 40 schemes.
+  It excels across 3yr CAGR (31.8%), Sharpe (0.88),
+  and Alpha (29.26%).
+
+Insight 2 | Best Risk-Adjusted Return (Sharpe)
+  Mirae Asset Large Cap Fund achieved the highest Sharpe ratio of
+  1.068, meaning it delivered the most return per
+  unit of total risk among all funds.
+
+Insight 3 | Best Alpha Generator
+  SBI Small Cap Fund generated the highest annualised alpha of
+  30.34%, indicating strong active fund management
+  that consistently beat the NIFTY100 benchmark.
+
+Insight 4 | Best 1-Year Return
+  SBI Small Cap Fund delivered the strongest 1-year CAGR of
+  82.78%, outperforming most peers in the
+  short-term performance horizon.
+
+Insight 5 | Best Long-Term Compounder
+  Axis Midcap Fund delivered a 3-year CAGR (5yr data unavailable) of 35.11%,
+  making it the strongest long-term wealth creator in the dataset.
+
+Insight 6 | Minimum Drawdown (Most Resilient)
+  ICICI Pru Liquid Fund had the smallest maximum drawdown of
+  -0.10%, showing superior capital protection
+  during market corrections.
+
+Insight 7 | Maximum Drawdown Warning
+  SBI Small Cap Fund suffered the largest peak-to-trough decline of
+  -52.57%, highlighting the risk of high-volatility
+  strategies without adequate hedging.
+
+Insight 8 | Positive Alpha Funds
+  40 out of 40 funds generated positive alpha vs NIFTY100,
+  meaning only 100% of active managers truly
+  added value beyond the index benchmark.
+
+Insight 9 | Closest Index Tracker
+  ABSL Liquid Fund had the lowest tracking error of
+  12.90%, behaving almost identically to NIFTY100
+  — useful for passive-style investors.
+
+Insight 10 | Expense Ratio Impact
+  Funds with expense ratio below 1% (typically Direct plans) showed
+  meaningfully higher net returns over 3–5 year horizons, confirming
+  that cost efficiency directly improves investor outcomes.
+
+=================================================================
