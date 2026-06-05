@@ -1,0 +1,66 @@
+
+=================================================================
+  DAY 3 — 10 KEY EDA FINDINGS
+=================================================================
+
+Finding 1 | NAV Trend Analysis
+  Large-cap funds showed sustained NAV growth of 15–25% during
+  the 2023 bull run, followed by a 5–10% correction in H2 2024.
+  Chart: nav_trends.png
+
+Finding 2 | AUM Dominance
+  SBI Mutual Fund consistently held the highest AUM (~₹6 lakh
+  crore), followed by HDFC and ICICI Prudential. Top 3 houses
+  control ~45% of industry AUM.
+  Chart: aum_growth.png
+
+Finding 3 | SIP Record High
+  Monthly SIP inflows hit their all-time peak in the dataset,
+  reflecting a structural shift toward systematic investing by
+  retail participants.
+  Chart: sip_trend.png
+
+Finding 4 | Category Rotation
+  Large Cap and Flexi Cap saw the highest net inflows during
+  market upswings. Debt categories experienced outflows during
+  high-rate periods.
+  Chart: category_heatmap.png
+
+Finding 5 | Investor Age Profile
+  Investors aged 36–45 contribute the highest SIP amounts on
+  average, while 18–25 cohort is the fastest growing segment.
+  Chart: investor_demographics.png
+
+Finding 6 | Gender Gap
+  Male investors account for ~65% of transaction volume, but
+  female investors show higher average SIP ticket sizes,
+  suggesting more disciplined investing behaviour.
+  Chart: gender_split.png
+
+Finding 7 | Geographic Concentration
+  T30 cities (metros) account for over 80% of total invested
+  amount. Maharashtra, Delhi, and Karnataka lead by value.
+  B30 participation is growing but remains under 20%.
+  Chart: geographic_distribution.png
+
+Finding 8 | Folio Growth
+  Total industry folios grew significantly across the period,
+  indicating strong new investor on-boarding driven by digital
+  platforms and SIP awareness campaigns.
+  Chart: folio_growth.png
+
+Finding 9 | Correlation Clusters
+  Large-cap funds exhibit high positive return correlations
+  (0.85+), meaning diversification benefit within the same
+  sub-category is minimal. Mid/small cap funds offer better
+  diversification against large-cap holdings.
+  Chart: correlation_matrix.png
+
+Finding 10 | Sector Concentration Risk
+  Financial Services and Banking sectors account for the
+  largest portfolio weights across funds. IT is second.
+  Investors seeking diversification should look at sectoral
+  or thematic funds for uncorrelated exposure.
+  Chart: sector_allocation.png
+
+=================================================================
